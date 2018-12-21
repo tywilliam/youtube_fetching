@@ -30,3 +30,21 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background-color:#2980b9;
+}
+.youtube {
+  border: 5px lightblue solid;
+  border-radius:20px;
+  margin-top:20px;
+}
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  border-radius:10px;
+  font-size:20px;
+  background-color:#e67;
+}
+button:hover {
+  background-color:#e29;
+}
